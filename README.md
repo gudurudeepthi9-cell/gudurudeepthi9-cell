@@ -160,8 +160,13 @@ A full-stack web platform that connects farmers directly with customers, enablin
 - 🎓 **8-Week Internship in SQL & Database Management Systems with Project** – EduSkills Academy
 - ☁️ **Google Skills Arcade – Base Camp Badge** – Google Cloud
 - ✨ **Introduction to Generative AI** – Google
-- 🤖 **AI/ML and Data Science Projects** – Academic & Personal Projects
-- 📈 **HR Analytics: Identifying Compensation Outliers** – Capstone Project
+- ☁️ **Google Cloud Study Jams 2025** – Earned **19 Google Cloud Skill Badges** through hands-on labs and technical challenges
+- 💡 **Hackademia 2K24** – Participated in a National Level Hackathon
+- ☁️ **AWS AI-ML Virtual Internship (EduSkills)** – Gained hands-on exposure to AI, ML, and AWS technologies
+- 🤝 **Bosch BRIDGE Employability Skills Program** – Developed communication, teamwork, and professional skills
+- 🧠 **Google AI Essentials** – Completed training in AI fundamentals and generative AI
+- 🎨 **Hedra Dual Certification** – Earned dual certifications in AI-powered content creation
+
 
 ---
 
